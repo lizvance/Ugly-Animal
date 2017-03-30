@@ -56,12 +56,19 @@ body {
   font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
+.rem{
+  color: black !important;
+  position: relative !important;
+  top: -30px !important;
+  left: 90px !important;
+}
+
 
 .likey {
   color: black !important;
   position: relative !important;
   top: -30px !important;
-  left: 76px !important;
+  left: 85px !important;
 
 }
 
