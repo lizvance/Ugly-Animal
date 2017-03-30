@@ -1,0 +1,90 @@
+body {
+  background-color: black;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+
+#add{
+  color: #E76F51;
+}
+
+.post-img {
+  width: 500px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+
+}
+
+
+.rank-bubble {
+  width: 35px;
+  color: white;
+  font-size: 24px;
+  height: 35px;
+  background-color: #2A9D8F;
+  border-radius: 50%;
+  position: relative;
+  left: -10px;
+  top: 24px;
+  -webkit-box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  -moz-box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  text-align: center;
+}
+
+.upvotes-counter {
+  width: 100px;
+  color: white;
+  font-size: 24px;
+  height: 35px;
+  background-color: #2A9D8F;
+  border-radius: 4px;
+  position: relative;
+  left: 404px;
+  top: -33px;
+  -webkit-box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  -moz-box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.37);
+  text-align: center;
+}
+
+.glyphicon {
+  font-size: 30px;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+
+.likey {
+  color: black !important;
+  position: relative !important;
+  top: -30px !important;
+  left: 76px !important;
+
+}
+
+
+#form1{
+  text-align: center;
+
+}
+
+#head{
+  /*font-family: "Arial Black", Gadget, sans-serif;*/
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  font-size: 58px;
+  font-weight: bold;
+
+}
+
+
+
+.inText{
+  text-align: center;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  font-size: 27px;
+
+}
